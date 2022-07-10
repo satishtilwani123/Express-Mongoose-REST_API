@@ -1,0 +1,3 @@
+//Express-Generator
+
+. npm install mongoose --save        //Installing mongoose
